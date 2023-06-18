@@ -100,6 +100,7 @@ By exploiting a privilege escalation vulnerability on the 'Comments' page, I unc
 I performed a Directory Traversal Attack, which exposed sensitive user data and led to the fourteenth flag.
 
 <img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/3b68452f-b78b-4e89-902d-3d73cf7a1fd5" width="600" height="450">
+
 ### Flag 15: Arbitrary File Upload on 'Profile Picture' Page
 
 I uploaded a malicious .php file disguised as a .jpg file on the 'Profile Picture' page, exposing the final flag.
