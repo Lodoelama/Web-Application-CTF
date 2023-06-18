@@ -87,25 +87,24 @@ Using an advanced command injection payload `www.example.com | cat vendors.txt` 
 
 I performed a brute force attack on the 'Login' page using a dictionary attack, uncovering the twelfth flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/1e34e2b3-7f92-4c80-b379-1a07d3a918a2" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/5a8d3b44-8fb2-4d8b-9c76-ef8f5f98c3fa" width="600" height="450">
 
 ### Flag 13: Privilege Escalation on 'Comments' Page
 
 By exploiting a privilege escalation vulnerability on the 'Comments' page, I uncovered the thirteenth flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/36db2b15-7a6e-4fbf-b65c-c6e0645c15c0" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/c34d8eb8-3161-4d3c-b7c9-cf2b56e3a112" width="600" height="450">
 
 ### Flag 14: Directory Traversal Attack
 
 I performed a Directory Traversal Attack, which exposed sensitive user data and led to the fourteenth flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/6b6d840f-fd62-428c-9083-63957e327ec1" width="600" height="450">
-
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/3b68452f-b78b-4e89-902d-3d73cf7a1fd5" width="600" height="450">
 ### Flag 15: Arbitrary File Upload on 'Profile Picture' Page
 
 I uploaded a malicious .php file disguised as a .jpg file on the 'Profile Picture' page, exposing the final flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/7d36406b-8e34-45a4-9b57-1379b5a2dcba" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/9f395f3b-11c3-4ad4-a038-7cc9b39e7d36" width="600" height="450">
 
 ## Conclusion
 
