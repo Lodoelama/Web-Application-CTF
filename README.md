@@ -1,4 +1,4 @@
-# CTF Challenge: 'Rekall Memory Intrusion'
+# CTF Challenge: 'Rekall Web Application CTF'
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
