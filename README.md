@@ -87,26 +87,28 @@ Using an advanced command injection payload `www.example.com | cat vendors.txt` 
 
 I performed a brute force attack on the 'Login' page using a dictionary attack, uncovering the twelfth flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/5a8d3b44-8fb2-4d8b-9c76-ef8f5f98c3fa" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/fea02f16-4c3f-4abf-a1ee-192c1ce1bb24" width="600" height="450">
 
 ### Flag 13: Privilege Escalation on 'Comments' Page
 
 By exploiting a privilege escalation vulnerability on the 'Comments' page, I uncovered the thirteenth flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/c34d8eb8-3161-4d3c-b7c9-cf2b56e3a112" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/60ed656a-512f-4007-ad49-b7e5dc212363" width="600" height="450">
 
 ### Flag 14: Directory Traversal Attack
 
 I performed a Directory Traversal Attack, which exposed sensitive user data and led to the fourteenth flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/3b68452f-b78b-4e89-902d-3d73cf7a1fd5" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/d5d5c059-7d3e-42f1-93ba-7cb296ecb23e" width="600" height="450">
 
 ### Flag 15: Arbitrary File Upload on 'Profile Picture' Page
 
 I uploaded a malicious .php file disguised as a .jpg file on the 'Profile Picture' page, exposing the final flag.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/9f395f3b-11c3-4ad4-a038-7cc9b39e7d36" width="600" height="450">
+<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/1432e64b-3f84-4cc6-bbc6-0e9b570574c3" width="600" height="450">
 
 ## Conclusion
 
 This challenge has reinforced my understanding of various web application vulnerabilities and how they can be exploited in a real-world scenario. Through persistence, I was able to successfully capture all 15 flags and complete the CTF challenge. I'm eager to apply my expanded knowledge to future cybersecurity endeavors.
+![ctf day one timer ](https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/0a6dc05c-b2e9-4746-bf15-265d8718ed68)
+
