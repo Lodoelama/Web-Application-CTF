@@ -30,7 +30,7 @@ On the 'Welcome' page, a reflected Cross-Site Scripting (XSS) vulnerability was 
 <details>
 <summary><strong>Flag 2: XSS Payload in 'Choose Your Character' Field</strong></summary>
 <br>
-On the 'Memory-Planner' page, a Cross-Site Scripting vulnerability was identified. By bypassing input validation with the payload `<SCRscriptIPT>alert(“Hello”);</SCRscriptIPT>`, the second flag was revealed.
+On the 'Memory-Planner' page, a Cross-Site Scripting vulnerability was identified. By bypassing input validation with the payload "<SCRscriptIPT>alert(“Hello”);</SCRscriptIPT>", the second flag was revealed.
 
 <p align="center">
   <img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/4877b816-3146-4e23-9011-348ea27e8794" width="400" alt="Flag 2">
