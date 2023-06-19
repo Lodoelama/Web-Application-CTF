@@ -109,7 +109,7 @@ Using an advanced command injection payload `www.example.com | cat vendors.txt` 
 
 ## Flag 12: Brute Force Attack on 'Login' Page
 
-A brute force attack was performed on the 'Login' page using a dictionary attack, uncovering the twelfth flag.
+A brute force attack was performed on the 'Login' page using simple password payloads in burp intruder and found the password for melina:melina ,uncovering the twelfth flag.
 
 <p align="center">
   <img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/fea02f16-4c3f-4abf-a1ee-192c1ce1bb24" width="400" alt="Flag 12">
