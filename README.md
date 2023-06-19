@@ -13,13 +13,9 @@ Embarked on a Capture The Flag (CTF) challenge to exploit multiple vulnerabiliti
 
 After logging into Kali and navigating to the correct directory, started the Docker container that held the 'Rekall' web application. Accessed the application at `http://192.168.14.35` and clicked "Get Started".
 
-## Flags
-
-The detailed information about each flag and the corresponding exploitation technique are as follows. Click on the flags to see the associated images.
 
 ## Flags
 
-The detailed information about each flag and the corresponding exploitation technique are as follows. Click on the links to view the associated images.
 
 ## Flag 1: Reflected XSS on 'Welcome' Page
 
