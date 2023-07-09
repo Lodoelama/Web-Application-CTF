@@ -144,5 +144,5 @@ The fifteenth flag was achieved by exploiting a directory traversal vulnerabilit
 
 This challenge has reinforced my understanding of various web application vulnerabilities and how they can be exploited in a real-world scenario. Through persistence, I was able to successfully capture all 15 flags and complete the CTF challenge. I'm eager to apply my expanded knowledge to future cybersecurity endeavors.
 
-<img src="https://github.com/Lodoelama/Web-Application-CTF/assets/125059539/0a6dc05c-b2e9-4746-bf15-265d8718ed68" width="550" height="450">
+
 
